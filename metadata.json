@@ -1,0 +1,6 @@
+{
+  "name": "Peluquería Pro",
+  "description": "Gestión de citas, equipo profesional, tarifas y reservas por Telegram para peluquerías y barberías.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
